@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0YJKcuadcAFpEHVJ7G7Lgv7uR6NA/LvbLT5VyVIYtaaO6oimv99WEga+VG8JMmRCjPMQWLknLwSbzrraTVbUQ==",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\FlatRockTask\\WebScraping\\WebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R10\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

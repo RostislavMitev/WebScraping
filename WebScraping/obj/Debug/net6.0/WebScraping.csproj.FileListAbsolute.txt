@@ -1,0 +1,17 @@
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\WebScraping.exe
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\WebScraping.deps.json
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\WebScraping.runtimeconfig.json
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\WebScraping.dll
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\WebScraping.pdb
+E:\Desktop\FlatRockTask\WebScraping\bin\Debug\net6.0\HtmlAgilityPack.dll
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.csproj.AssemblyReference.cache
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfoInputs.cache
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfo.cs
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.csproj.CoreCompileInputs.cache
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.csproj.CopyComplete
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.dll
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\refint\WebScraping.dll
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.pdb
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\WebScraping.genruntimeconfig.cache
+E:\Desktop\FlatRockTask\WebScraping\obj\Debug\net6.0\ref\WebScraping.dll
